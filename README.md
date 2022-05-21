@@ -2,8 +2,8 @@
 
 ### Setting up for the Arduino:
 
-1- Download Arduino ID
-2- Download the Makeblock library from the git https://codeload.github.com/Makeblock-official/Makeblock-Libraries/zip/master
+* Download Arduino ID
+* Download the Makeblock library from the git https://codeload.github.com/Makeblock-official/Makeblock-Libraries/zip/master
 3- From the Arduino IDE: Sketch →  Include Library →  Add .ZIP Library -> select the downloaded file (Makeblock library) →  Open
 4- From Arduino IDE: File → Examples -> MakeBlockDrive →  Firmware_for_Auirga
 5- From Arduino IDE: Tools → Board →  Arduino Mega or Mega 2560
